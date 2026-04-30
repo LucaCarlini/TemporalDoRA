@@ -16,7 +16,7 @@ env/
 
 # Training outputs and logs
 .codex_*/
-train*/
+train_*/
 outputs/
 checkpoints*/
 wandb/
